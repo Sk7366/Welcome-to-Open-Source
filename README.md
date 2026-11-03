@@ -347,6 +347,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/Sk7366">
+                    <img src="https://avatars.githubusercontent.com/u/185235396?v=4" width="100px;"
+                        alt="Sai Kirti Krishnan" />
+                    <br />
+                    <sub>
+                        <b>Aashik Gautam</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                             <a href="https://www.linkedin.com/in/vasusahu/">
                     <img src="https://avatars.githubusercontent.com/u/160257096?v=4" width="100px;"
